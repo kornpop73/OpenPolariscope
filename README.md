@@ -1,5 +1,4 @@
 # OpenPolarizer
-This is the library for the OpenPolarizer
 ![Alt text](https://github.com/kornpop73/OpenPolarizer/blob/01/Documentation/Images/Locking%20Disc%20Image.jpg "Locking Disc Image")
 
 ## Device Description

@@ -1,12 +1,14 @@
-# Repository Template
-This is the library for the Repository Template
-![Alt text](https://github.com/kornpop73/Repository-Template/blob/master/Documentation/Images/Repository%20Template%20Sign.jpg "Repository Template Image")
+# OpenPolarizer
+This is the library for the OpenPolarizer
+![Alt text](https://github.com/kornpop73/OpenPolarizer/blob/01/Documentation/Images/Locking%20Disc%20Image.jpg "Locking Disc Image")
+
+## Device Description
+Introducing OpenPolarizer: a 3D-printed, open-source device for hands-on exploration of polarization. 
+With rotating discs and adjustable polarization sheets, students can observe and understand polarized light effects. 
+Join us in this accessible and dynamic venture where learning optics is a creative endeavor.
+
 ## Repository Contents
 
-* [**/Design Files**](https://github.com/kornpop73/Repository-Template/tree/master/Design%20Files) - Contains all ECAD and MCAD files for this board
-* [**/Documentaton**](https://github.com/kornpop73/Repository-Template/tree/master/Documentation) - Contains all documentation related to this product (schematics, data sheets, test results et.
-* [**/Production**](https://github.com/kornpop73/Repository-Template/tree/master/Production) - Contains all production files for this product (gerbers, BOMs, etc.)
-## Documentation
-Copies of documentation are also saved in this repository
-
-* **[Bill of Materials (Drive)](https://docs.google.com/spreadsheets/d/19F9LtllrqgK12zTiMidQ3yvM763GcWGzVFgDLrxn99o/edit#gid=532702290)** - BOM in Google Drive
+* [**/Design Files**](https://github.com/kornpop73/Repository-Template/tree/master/Design%20Files) - Contains all MCAD files for this device
+* [**/Documentaton**](https://github.com/kornpop73/Repository-Template/tree/master/Documentation) - Contains all documentation related to this device (schematics, data sheets, test results et.
+* [**/Production**](https://github.com/kornpop73/Repository-Template/tree/master/Production) - Contains all production files for this device (gerbers, BOMs, etc.)

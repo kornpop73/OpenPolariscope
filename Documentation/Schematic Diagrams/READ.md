@@ -1,1 +1,0 @@
-#Schematic diagrams go here.

@@ -1,7 +1,7 @@
 
 # OpenPolariscope
 
-![Alt text](https://github.com/kornpop73/OpenPolarizer/blob/01/Documentation/Images/Locking%20Disc%20Image.jpg "Locking Disc Image")
+![Alt text](https://github.com/kornpop73/OpenPolariscope/blob/01/Documentation/Images/OpolaAssembly.JPG "Open Polariscop Image")
 
 ## Device Description
 Introducing OpenPolariscope: a 3D-printed, open-source device for hands-on exploration of polarization. 
